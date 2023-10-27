@@ -1,0 +1,8 @@
+With the advancement of technology, more and more universities and educational institutions are migrating to distance learning-based courses. Students are slowly embracing virtual learning, but some worry that their performance may not be as good as if they attended physical classes. Intending students are more convinced to opt for virtual learning platforms to take courses if they feel like they would achieve similar success rate.
+It is therefore important for learning institutions who have virtual learning environments to ensure that they are supporting their students as much as they can to ensure that they achieve high success rates. 
+
+With machine learning and deep learning becoming more popular in recent times, their applications have been extended to education. If goes a long way if virtual learning institution are able to predict if a student would pass or fail a course early on in the couse, so that intervention steps can be taken to mitigate failure.
+Classification is a supervised type of learning where a machine learns from examples. In this type of learning, labelled data is fed to the algorithm which it learns from, and uses this knowledge to give close predictions of new inputs.
+
+In this task, classification models are built using two approaches: Logistic Regression and Neural Network to predict the success or failure of a student in a course run in the open university virtual learning environment.
+The Open University Learning Analytics Dataset contains data of about 30,000 students and their interactions with a Virtual Learning Environment (VLE) for seven selected courses.
