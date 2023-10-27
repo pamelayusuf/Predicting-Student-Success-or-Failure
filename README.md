@@ -4,5 +4,5 @@ It is therefore important for learning institutions who have virtual learning en
 With machine learning and deep learning becoming more popular in recent times, their applications have been extended to education. If goes a long way if virtual learning institution are able to predict if a student would pass or fail a course early on in the couse, so that intervention steps can be taken to mitigate failure.
 Classification is a supervised type of learning where a machine learns from examples. In this type of learning, labelled data is fed to the algorithm which it learns from, and uses this knowledge to give close predictions of new inputs.
 
-In this task, classification models are built using two approaches: Logistic Regression and Neural Network to predict the success or failure of a student in a course run in the open university virtual learning environment.
+In this project, classification models are built using two approaches: Logistic Regression and Neural Network to predict the success or failure of a student in a course run in the open university virtual learning environment.
 The Open University Learning Analytics Dataset contains data of about 30,000 students and their interactions with a Virtual Learning Environment (VLE) for seven selected courses.
